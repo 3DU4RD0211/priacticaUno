@@ -1,1 +1,3 @@
 print "grupo IDGS101N"
+estamos practicando en git y que interesante linux los casi ingenieros, que nada y seran grandes ingenieros
+otra cosa
